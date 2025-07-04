@@ -1,0 +1,19 @@
+current directory: /home/amvile/Documents/Aaron1360.github.io/.gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/nix/store/fffrz8gwydkam4ml317xpjcn2kn0zv5j-ruby-3.3.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/amvile/Documents/Aaron1360.github.io/.gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250704-84821-vibzne sitelibdir\=./.gem.20250704-84821-vibzne clean
+
+current directory: /home/amvile/Documents/Aaron1360.github.io/.gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250704-84821-vibzne sitelibdir\=./.gem.20250704-84821-vibzne
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/amvile/Documents/Aaron1360.github.io/.gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250704-84821-vibzne sitelibdir\=./.gem.20250704-84821-vibzne install
+install -c -p -m 755 ruby_http_parser.so ./.gem.20250704-84821-vibzne
+
+current directory: /home/amvile/Documents/Aaron1360.github.io/.gems/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20250704-84821-vibzne sitelibdir\=./.gem.20250704-84821-vibzne clean
