@@ -3,6 +3,8 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+baseurl: ""
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 lang: es
 
@@ -19,11 +21,10 @@ tagline: Consultoria en computo y desarrollo de software
 description: >- # used by seo meta and the atom feed
   Este blog es una ventana al taller de SCC-Reboot, donde compartimos parte de nuestras actividades: reparación, mantenimiento, desarrollo, impresión 3D y más.
 
-url: "https://scc-reboot.com"
-baseurl: ""
+url: "https://Aaron1360.github.io"
 
 # If you want to enforce HTTPS
-enforce_ssl: scc-reboot.com
+# enforce_ssl: scc-reboot.com
 
 github:
   username: Aaron1360
@@ -146,9 +147,6 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
-# The base URL of your site
-baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
