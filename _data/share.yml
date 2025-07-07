@@ -2,49 +2,22 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+  - type: GitHub
+    icon: "fab fa-github"
+    link: "https://github.com/Aaron1360"
 
   - type: Facebook
-    icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+    icon: "fab fa-facebook"
+    link: "https://www.facebook.com/share/1BzhNgseYK/"
 
-  - type: Telegram
-    icon: "fab fa-telegram"
-    link: "https://t.me/share/url?url=URL&text=TITLE"
+  - type: Instagram
+    icon: "fab fa-instagram"
+    link: "https://www.instagram.com/sccreboot?igsh=ajhsdnM0YnN5b2pl"
 
-  # Uncomment below if you need to.
-  #
-  # - type: Linkedin
-  #   icon: "fab fa-linkedin"
-  #   link: "https://www.linkedin.com/feed/?shareActive=true&shareUrl=URL"
-  #
-  # - type: Weibo
-  #   icon: "fab fa-weibo"
-  #   link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
-  #
-  # - type: Mastodon
-  #   icon: "fa-brands fa-mastodon"
-  #   # See: https://github.com/justinribeiro/share-to-mastodon#properties
-  #   instances:
-  #     - label: mastodon.social
-  #       link: "https://mastodon.social/"
-  #     - label: mastodon.online
-  #       link: "https://mastodon.online/"
-  #     - label: fosstodon.org
-  #       link: "https://fosstodon.org/"
-  #     - label: photog.social
-  #       link: "https://photog.social/"
-  #
-  # - type: Bluesky
-  #   icon: "fa-brands fa-bluesky"
-  #   link: "https://bsky.app/intent/compose?text=TITLE%20URL"
-  #
-  # - type: Reddit
-  #   icon: "fa-brands fa-square-reddit"
-  #   link: "https://www.reddit.com/submit?url=URL&title=TITLE"
-  #
-  # - type: Threads
-  #   icon: "fa-brands fa-square-threads"
-  #   link: "https://www.threads.net/intent/post?text=TITLE%20URL"
+  - type: WhatsApp
+    icon: "fab fa-whatsapp"
+    link: "https://wa.me/5217711265870"
+
+  - type: Email
+    icon: "fas fa-envelope"
+    link: "mailto:serviciotecnico@sccreboot.com.mx?subject=Asunto%20aqui&body=Hola%2C%20me%20interesa%20el%20contenido%20de%20esta%20pagina.%20Podrian%20enviarme%20mas%20informacion%3F%20Gracias."
