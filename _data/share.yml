@@ -18,6 +18,6 @@ platforms:
     icon: "fab fa-whatsapp"
     link: "https://wa.me/5217711265870"
 
-  - type: Email
-    icon: "fas fa-envelope"
-    link: "mailto:serviciotecnico@sccreboot.com.mx?subject=Asunto%20aqui&body=Hola%2C%20me%20interesa%20el%20contenido%20de%20esta%20pagina.%20Podrian%20enviarme%20mas%20informacion%3F%20Gracias."
+  # - type: Email
+  #   icon: "fas fa-envelope"
+  #   link: "mailto:serviciotecnico@sccreboot.com.mx?subject=Asunto%20aqui&body=Hola%2C%20me%20interesa%20el%20contenido%20de%20esta%20pagina.%20Podrian%20enviarme%20mas%20informacion%3F%20Gracias."

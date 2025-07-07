@@ -1,43 +1,36 @@
-# Chirpy Starter
+# SCC-Reboot Taller & Consultoría
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Bienvenido al repositorio de la página web de **SCC-Reboot**, nuestro taller y consultoría de tecnología.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## ¿Quiénes somos?
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Somos un taller especializado en servicios técnicos para computadoras y tecnología, ubicado en Pachuca, Hidalgo. Nos dedicamos a brindar soluciones integrales tanto a particulares como a empresas.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## Nuestros servicios
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+- **Reparación de computadoras y laptops**
+- **Actualización de hardware y software**
+- **Instalación de sistemas operativos y aplicaciones**
+- **Desarrollo de software a medida**, incluyendo:
+  - **Desarrollo web**
+  - **Web scraping**
+  - **Automatización de tareas con Python**
+- **Diseño 3D y modelado**
+- **Impresión 3D de prototipos y piezas personalizadas**
+- **Asesoría y consultoría tecnológica**
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Sobre este sitio
 
-## Usage
+Este sitio está construido con [Jekyll](https://jekyllrb.com/) y el tema [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/). Aquí compartimos información sobre nuestros servicios, proyectos, artículos técnicos y novedades del taller.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+## ¿Cómo contactarnos?
 
-## Contributing
+Puedes encontrarnos y contactarnos a través de nuestras redes sociales, WhatsApp o correo electrónico. Consulta la sección de contacto en la página principal para más detalles.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+## Licencia
 
-## License
+Este proyecto está publicado bajo la licencia MIT.
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+---
+¿Buscas soluciones tecnológicas confiables?  
+¡En SCC-Reboot te ofrecemos la mejor atención y servicio personalizado!
