@@ -16,7 +16,7 @@
   icon: "fab fa-whatsapp"
   url: "https://wa.me/5217711265870"
 
-- type: email
-  icon: "fas fa-envelope"
-  url: "mailto:serviciotecnico@scc-reboot.com"
-  noblank: false
+# - type: email
+#   icon: "fas fa-envelope"
+#   url: "mailto:serviciotecnico@scc-reboot.com"
+#   noblank: false
