@@ -5,7 +5,7 @@ Nuestro taller y consultoría de tecnología.
 
 ## 👥 ¿Quiénes somos?
 
-Somos un taller especializado en servicios técnicos para computadoras y tecnología, ubicado en México. Nos dedicamos a brindar soluciones integrales tanto a particulares como a empresas.
+Somos un taller especializado en servicios técnicos para computadoras y tecnología, ubicado en Pachuca, Hidalgo. Nos dedicamos a brindar soluciones integrales tanto a particulares como a empresas.
 
 ## 🛠️ Nuestros servicios
 
